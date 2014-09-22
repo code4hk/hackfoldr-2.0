@@ -27,6 +27,6 @@ branches:
 env:
   global:
     - REPO="git@github.com:code4hk/code4hk.github.io"
-    - secure: "NwdCBjbOteVAnQEJ9F0Gi6vppdOrNPV6jtzChaSU4+sjRtDAE1Z/Zf/yDEQ2WP9vFN0n5JXQsMycnnD1hyO+YkQBCZoKk5IIxmn4C1W+DrM2EA99wWDTIXV5FuKgqVcuq4p0oh+nQLn7A0vswYb65c6Erq3qMX3sqJtY3PyMgJc="
+    - secure: "ADV2ZFaB9GtXPyrDwSnQ+DfEaVtG6zlAm4Tp5H5scFjSZ+DQg4UmjFP9d5ioLkf1n/DsCaOMPE/aLL1JitHfl4o4KcabP+y8Tmm0+69fX/1YEadFliU1P5PkAhS/w1Jh44hgBePqqlO8tkkAJ1ENneQMABpRz0ibVVmuX1QZpBs="
 
 after_success: .travis/after_success.sh
