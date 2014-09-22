@@ -3,7 +3,7 @@ set -e -x
 git --version
 upstream=$1
 : ${upstream:=origin}
-: ${REPO:=git@github.com:code4hk/code4hk.github.io}
+: ${REPO:=git@github.com:code4hk/hackfoldr-2.0}
 git fetch $upstream
 if [ `git rev-list HEAD...$upstream/master --count` -ne 0 ]; then
   echo "not deploying"
