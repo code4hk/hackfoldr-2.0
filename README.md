@@ -1,5 +1,8 @@
 Hackfodlr customized for CODE4HK
 ============
+[![Build Status](https://travis-ci.org/code4hk/hackfoldr-2.0.svg?branch=master)](https://travis-ci.org/code4hk/hackfoldr-2.0)
+
+Thanks g0vTW!!!!
 
 Using:
 * Sass
